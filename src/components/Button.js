@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import { CalcContext } from "../context/CalcContext";
 
+//
 const getStyleName = (btn) => {
   const className = {
     "=": "equals",
