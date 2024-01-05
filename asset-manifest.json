@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Calculator/static/css/main.db202d82.css",
-    "main.js": "/Calculator/static/js/main.17e6e92a.js",
-    "index.html": "/Calculator/index.html",
-    "main.db202d82.css.map": "/Calculator/static/css/main.db202d82.css.map",
-    "main.17e6e92a.js.map": "/Calculator/static/js/main.17e6e92a.js.map"
+    "main.css": "/kpoage12.github.io-Calculator/static/css/main.db202d82.css",
+    "main.js": "/kpoage12.github.io-Calculator/static/js/main.17e6e92a.js",
+    "index.html": "/kpoage12.github.io-Calculator/index.html",
+    "main.db202d82.css.map": "/kpoage12.github.io-Calculator/static/css/main.db202d82.css.map",
+    "main.17e6e92a.js.map": "/kpoage12.github.io-Calculator/static/js/main.17e6e92a.js.map"
   },
   "entrypoints": [
     "static/css/main.db202d82.css",
